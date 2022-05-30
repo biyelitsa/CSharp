@@ -1,0 +1,16 @@
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\StringMetodlar.exe
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\StringMetodlar.deps.json
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\StringMetodlar.runtimeconfig.json
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\StringMetodlar.runtimeconfig.dev.json
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\StringMetodlar.dll
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\ref\StringMetodlar.dll
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\bin\Debug\net5.0\StringMetodlar.pdb
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.csproj.AssemblyReference.cache
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.AssemblyInfoInputs.cache
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.AssemblyInfo.cs
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.dll
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\ref\StringMetodlar.dll
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.pdb
+C:\301Sabah\1-degiskenler\StringMetodlar\StringMetodlar\obj\Debug\net5.0\StringMetodlar.genruntimeconfig.cache

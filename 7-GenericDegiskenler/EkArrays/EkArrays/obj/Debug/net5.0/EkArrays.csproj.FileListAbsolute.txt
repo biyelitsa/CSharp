@@ -1,0 +1,16 @@
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\EkArrays.exe
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\EkArrays.deps.json
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\EkArrays.runtimeconfig.json
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\EkArrays.runtimeconfig.dev.json
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\EkArrays.dll
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\ref\EkArrays.dll
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\bin\Debug\net5.0\EkArrays.pdb
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.csproj.AssemblyReference.cache
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.AssemblyInfoInputs.cache
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.AssemblyInfo.cs
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.csproj.CoreCompileInputs.cache
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.dll
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\ref\EkArrays.dll
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.pdb
+C:\301Sabah\7-GenericDegiskenler\EkArrays\EkArrays\obj\Debug\net5.0\EkArrays.genruntimeconfig.cache

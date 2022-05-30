@@ -1,0 +1,16 @@
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\Ilkel.exe
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\Ilkel.deps.json
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\Ilkel.runtimeconfig.json
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\Ilkel.runtimeconfig.dev.json
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\Ilkel.dll
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\ref\Ilkel.dll
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\bin\Debug\net5.0\Ilkel.pdb
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.csproj.AssemblyReference.cache
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.AssemblyInfoInputs.cache
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.AssemblyInfo.cs
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.csproj.CoreCompileInputs.cache
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.dll
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\ref\Ilkel.dll
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.pdb
+C:\301Sabah\1-degiskenler\1-IlkelDegiskenler\Ilkel\Ilkel\obj\Debug\net5.0\Ilkel.genruntimeconfig.cache
